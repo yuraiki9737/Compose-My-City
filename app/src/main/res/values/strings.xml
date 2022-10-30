@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Compose My City</string>
+    <string name="title_taman_sri_deli">Taman di Medan: Taman Sri Deli, Tamannya Sultan Medan</string>
+    <string name="description_taman_sri_deli">Belum komplet rasanya kalau ke Medan tapi tidak meninggalkan jejak di Taman Sri Deli. Pasalnya, taman di Medan ini merupakan salah satu taman tertua yang dibangun pada tahun 1924 atas perintah Sultan Amaludin Sani Perkasa Alamsyah, Sultan Deli pada masa itu.</string>
+    <string name="title_taman_kebun_bunga">Taman di Medan: Pesona Tiongkok di Taman Kebun Bunga</string>
+    <string name="description_taman_kebun_bunga">Seperti kota-kota besar di Indonesia lainnya, Kota Medan tidak pernah kekurangan tempat menarik untuk disinggahi. Taman Kebun Bunga contohnya, taman di Medan yang menyimpan kenangan.</string>
+    <string name="title_taman_candika_pramuka">"Taman di Medan: Taman Cadika Pramuka, Bermain sambil Belajar "</string>
+    <string name="description_taman_candika_pramuka">Kata Cadika merupakan akronim dari cabang pendidikan kader. Jadi, Taman Cadika Pramuka sejatinya adalah bumi perkemahan bagi anak pramuka. Hanya saja, taman di Medan ini juga dijadikan sebagai ruang terbuka hijau dan dibukan untuk umum sehingga banyak warga yang menjadikan alternatif untuk bertamasya bersama keluarga.</string>
+    <string name="title_cofeelab">38 Coffee Lab</string>
+    <string name="description_cofeelab">38 Coffee Lab adalah salah satu kedai kopi terbaik di Medan dimana tempat ini memiliki suasana yang cozy. Tempat satu ini juga dikenal memiliki barista yang ramah dan akan menjawab pertanyaan kalian mengenai kopi. Pemilik sekaligus head barista di 38 Coffee Lab ini adalah 2nd winner of Indonesian Aeropress Championship 2017. Sehingga kedai kopi ini wajib kamu kunjungi jika berkunjung ke Medan.</string>
+    <string name="title_coffeeloca">Coffee Loca</string>
+    <string name="description_cofeeloca">Kedai kopi satu ini sangat populer dikalangan para penikmat kopi yang berada di Medan, kedai kopi satu ini bernama Coffee Loca. Coffee Loca ini tidak hanya dapat dikunjungi anak muda saja namun juga dapat dikunjungi oleh orang dewasa saja.</string>
+    <string name="title_aduacoffee">A Dua Coffee</string>
+    <string name="description_aduacoffee">Tempat satu ini juga menjadi salah satu kedai kopi terbaik di Medan yang wajib kamu kunjungi. Tempat ini juga dikatakan sebagai salah satu tempat berkumpulnya para pecinta kopi. Menu di kedai A Dua Coffee ini terbilang enak-enak. Semakin nikmat sembari ditemani dengan alunan musik.</string>
+    <string name="title_restoran_pohon_pisang">Rumah Makan Pohon Pisang</string>
+    <string name="description_restoran_pohon_pisang">Namanya cukup unik yaitu Rumah Makan Pohon Pisang. Namun jangan langsung mencari dimana letak pohon pisangnya.</string>
+    <string name="title_ayam_pepes_medan">Ayam Pepes Medan</string>
+    <string name="description_ayam_pepes_medan">Pepes ayam, udang, bebek, dan pepes ikan, adalah beberapa menu pepes yang bisa dinikmati tempat ini. Disini, penyajian pepes dibagi menjadi dua piring anyaman kayu yang bisa digunakan kembali.</string>
+    <string name="title_wajir_seafood">Wajir Seafood</string>
+    <string name="description_wajir_seafood">Jika kalian para pencinta seafood berkunjung ke Medan, tempat makan ini cocok untuk memuaskan hasrat makan seafood kalian.</string>
+    <string name="category_garden">Garden</string>
+    <string name="category_coffeeshop">Coffee Shop</string>
+    <string name="category_restaurant">Restaurant</string>
+    <string name="recommendation_details">Details</string>
+</resources>
